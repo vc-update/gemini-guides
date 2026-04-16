@@ -74,6 +74,7 @@ export default defineConfig({
     {
       text: '🔥 最新教程',
       items: [
+        { text: 'Gemini 3.1 Pro 教程：2026年4月国内完整使用指南', link: '/guide/gemini-31-pro-tutorial-complete-guide-april-2026' },
         { text: 'Claude 4.6中文版：国内使用Claude Opus 4.6完整教程【2026年4月】', link: '/guide/claude-46-chinese-version-guide-2026' },
         { text: '2026年四大AI模型终极对比：Gemini vs ChatGPT vs Claude vs Grok', link: '/guide/ai-model-comparison-gemini-chatgpt-claude-grok-2026' },
         { text: 'Gemini提示词大全2026：50个高效Prompt模板让AI输出质量翻倍', link: '/guide/gemini-prompt-templates-50-examples-2026' },
