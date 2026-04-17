@@ -74,6 +74,7 @@ export default defineConfig({
     {
       text: '🔥 最新教程',
       items: [
+        { text: 'Gemini中文版 2026：国内完整使用教程与最新访问方案', link: '/guide/gemini-chinese-version-2026-complete-guide-april-2026' },
         { text: 'Gemini官网国内使用完整指南：2026年4月最新方法', link: '/guide/gemini-official-site-china-usage-guide-2026-04' },
         { text: 'Gemini 3.1 Pro 教程：2026年4月国内完整使用指南', link: '/guide/gemini-31-pro-tutorial-complete-guide-april-2026' },
         { text: 'Claude 4.6中文版：国内使用Claude Opus 4.6完整教程【2026年4月】', link: '/guide/claude-46-chinese-version-guide-2026' },
