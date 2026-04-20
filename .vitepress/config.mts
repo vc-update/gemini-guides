@@ -74,6 +74,7 @@ export default defineConfig({
     {
       text: '🔥 最新教程',
       items: [
+        { text: 'Gemini API 申请教程 2026年最新完整指南（含免费额度说明）', link: '/guide/gemini-api-application-tutorial-2026-04-420' },
         { text: 'Gemini 3.1 Pro 教程：2026年4月国内完整使用指南', link: '/guide/gemini-31-pro-tutorial-complete-guide-april-2026-420' },
         { text: 'Google Gemini 国内怎么用？2026年4月完整使用教程', link: '/guide/google-gemini-how-to-use-in-china-2026-04' },
         { text: 'Gemini vs ChatGPT 2026：两大AI巨头全面对比，哪个更值得用？', link: '/guide/gemini-vs-chatgpt-2026-comparison-april-2026' },
