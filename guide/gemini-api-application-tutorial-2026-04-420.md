@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Gemini API 申请教程 2026年最新完整指南（含免费额度说明）
 description: 2026年4月最新 Gemini API 申请教程，手把手教你完成 Google AI Studio 注册、API Key 获取、模型调用全流程，附国内替代方案推荐。

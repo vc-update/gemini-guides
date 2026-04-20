@@ -1,4 +1,3 @@
-```yaml
 ---
 title: Google Gemini 国内怎么用？2026年4月完整使用教程
 description: 详细解析 Google Gemini 国内访问难题，提供多种可用方案，包括镜像平台推荐与官方访问教程，帮助国内用户流畅体验 Gemini 3.1 Pro 强大功能。

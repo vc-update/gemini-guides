@@ -1,4 +1,3 @@
-```md
 ---
 title: Gemini vs ChatGPT 2026：深度对比测评，哪个AI更强？
 description: 2026年最新 Gemini vs ChatGPT 全面对比，涵盖编程、写作、推理、多模态能力测试，并附国内访问解决方案，帮你选出最适合的AI助手。
