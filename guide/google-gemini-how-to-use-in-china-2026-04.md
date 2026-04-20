@@ -7,7 +7,6 @@ head:
       content: google gemini 国内怎么用, gemini国内访问, gemini镜像, gemini中文版, gemini 3.1 pro国内使用
 outline: deep
 ---
-```
 
 # Google Gemini 国内怎么用？2026年4月最全使用指南
 

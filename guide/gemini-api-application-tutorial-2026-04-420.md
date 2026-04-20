@@ -7,7 +7,6 @@ head:
       content: gemini api 申请教程, gemini api key 获取, google ai studio 注册, gemini api 免费额度, gemini 国内使用
 outline: deep
 ---
-```
 
 # Gemini API 申请教程：2026年最新完整指南
 
