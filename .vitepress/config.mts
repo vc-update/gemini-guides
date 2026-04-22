@@ -74,6 +74,7 @@ export default defineConfig({
     {
       text: '🔥 最新教程',
       items: [
+        { text: 'Gemini官网国内使用完整指南（2026年4月最新）', link: '/guide/gemini-official-site-china-access-guide-2026-04-422' },
         { text: 'Gemini API 申请教程（2026年4月最新完整版）', link: '/guide/gemini-api-apply-tutorial-2026-04' },
         { text: 'Google Gemini 国内怎么用？2026年4月最新完整教程', link: '/guide/google-gemini-how-to-use-in-china-2026-04-421' },
         { text: 'Gemini API 申请教程 2026年最新完整指南（含免费额度说明）', link: '/guide/gemini-api-application-tutorial-2026-04-420' },
