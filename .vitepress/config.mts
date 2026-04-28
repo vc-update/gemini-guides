@@ -74,6 +74,7 @@ export default defineConfig({
     {
       text: '🔥 最新教程',
       items: [
+        { text: 'Gemini中文版 2026完整使用指南｜国内访问教程+最新功能详解', link: '/guide/gemini-chinese-version-2026-complete-guide-428' },
         { text: '"Gemini中文版 2026完全指南：国内访问方法、注册教程与最佳实践"', link: '/guide/gemini-chinese-version-2026-complete-guide' },
         { text: 'Gemini中文版 2026完整使用指南（4月最新更新）', link: '/guide/gemini-chinese-version-2026-complete-guide-april-427' },
         { text: 'Gemini中文版 2026完整使用指南｜国内访问教程+最新功能详解', link: '/guide/gemini-chinese-version-2026-complete-guide-april' },
